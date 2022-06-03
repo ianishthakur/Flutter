@@ -1,0 +1,7 @@
+intiration
+While(Bool.Cond)
+function in string
+regural expression
+oop 
+struck
+ssh -add
